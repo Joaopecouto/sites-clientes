@@ -1,70 +1,100 @@
-<h1 align="center">Sites de Clientes · Client Websites</h1>
+<h1 align="center">Sites de clientes</h1>
+
+<p align="center">Mais de 20 sites que desenvolvi (design e/ou implementação) para clientes reais.<br><sub><i>More than 20 websites I designed and/or built for real clients.</i></sub></p>
 
 <p align="center">
-  Seleção de sites que desenvolvi (design e/ou implementação) para clientes reais.<br>
-  <sub><i>A selection of websites I designed and/or built for real clients.</i></sub>
+  <kbd><img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/wordpress.svg" height="15" alt=""> WordPress</kbd> <kbd><img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/elementor.svg" height="15" alt=""> Elementor</kbd> <kbd><img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/html5.svg" height="15" alt=""> HTML5</kbd> <kbd>CSS</kbd> <kbd><img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/javascript.svg" height="15" alt=""> JavaScript</kbd> <kbd><img src="https://raw.githubusercontent.com/Joaopecouto/Joaopecouto/main/assets/icons/figma.svg" height="15" alt=""> Figma</kbd>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white">
-</p>
+> **PT** Vitrine de trabalhos entregues. Os links são de preview ou produção; o código de cada projeto é privado.
+> **EN** Showcase of delivered work. Links are preview or production; the source code of each project is private.
 
-> 📌 Vitrine de trabalhos entregues. Os links abaixo são de preview/produção; o código de cada projeto é privado.
-> <i>Showcase of delivered work. Links are preview/production; source code is private.</i>
+## Português
 
----
+Seleção de sites para indústria, setor automotivo, turismo, advocacia e comércio. Também fazem parte do portfólio os sites da Helitours, da Center Seals e da MixPneus.
 
-### 🏭 Vetek Tintas Industriais
-Distribuidor WEG em Piracicaba/SP — site institucional de tintas e soluções industriais.
-<sub><i>WEG distributor — industrial paints corporate website.</i></sub>
+#### Vetek Tintas Industriais
 
-[🔗 Ver site](https://previa-sites.alcetus.com/Vetek/)
+Distribuidor WEG em Piracicaba/SP: site institucional de tintas e soluções industriais.
 
-![Vetek](./screenshots/vetek.png)
+[Ver site](https://previa-sites.alcetus.com/Vetek/)
 
----
+<img src="./screenshots/vetek.png" alt="Site Vetek Tintas Industriais" width="80%">
 
-### 🚗 Catita Auto Center
-Centro automotivo em Vargem Grande Paulista/SP — troca de óleo, pneus, baterias e mecânica.
-<sub><i>Auto service center — oil change, tires, batteries and mechanics.</i></sub>
+#### Catita Auto Center
 
-[🔗 Ver site](https://previa-sites.alcetus.com/CATITA/)
+Centro automotivo em Vargem Grande Paulista/SP: troca de óleo, pneus, baterias e mecânica.
 
-![Catita](./screenshots/catita.png)
+[Ver site](https://previa-sites.alcetus.com/CATITA/)
 
----
+<img src="./screenshots/catita.png" alt="Site Catita Auto Center" width="80%">
 
-### ⚙️ CEMC Soluções Industriais
+#### CEMC Soluções Industriais
+
 Site institucional de soluções e equipamentos industriais.
-<sub><i>Industrial solutions corporate website.</i></sub>
 
-[🔗 Ver site](https://previa-sites.alcetus.com/CEMC/)
+[Ver site](https://previa-sites.alcetus.com/CEMC/)
 
-![CEMC](./screenshots/cemc.png)
+<img src="./screenshots/cemc.png" alt="Site CEMC Soluções Industriais" width="80%">
 
----
+#### MPA Máquinas
 
-### ♻️ MPA Máquinas
-Fabricante de equipamentos para reciclagem de plástico — catálogo e institucional.
-<sub><i>Plastic-recycling equipment manufacturer — catalog & corporate site.</i></sub>
+Fabricante de equipamentos para reciclagem de plástico: catálogo e institucional.
 
-[🔗 Ver site](https://previa-sites.alcetus.com/MPAMaquinas/)
+[Ver site](https://previa-sites.alcetus.com/MPAMaquinas/)
 
-![MPA Máquinas](./screenshots/mpa.png)
+<img src="./screenshots/mpa.png" alt="Site MPA Máquinas" width="80%">
 
----
+#### Rebecca Amorim Advocacia
 
-### ⚖️ Rebecca Amorim · Advocacia
 Landing page de captação para advocacia especializada em recuperação de contas de Instagram.
-<sub><i>Lead-capture landing page for a law practice (Instagram account recovery).</i></sub>
 
-[🔗 Ver site](https://advrebeccaamorim.com.br)
+[Ver site](https://advrebeccaamorim.com.br)
 
-![Rebecca Amorim](./screenshots/rebecca-amorim.png)
+<img src="./screenshots/rebecca-amorim.png" alt="Site Rebecca Amorim Advocacia" width="80%">
 
----
+## English
 
-<sub>Quer ver mais? Fale comigo: <b>joaopecouto77@gmail.com</b> · <i>Want to see more? Reach out.</i></sub>
+A selection of websites for industrial, automotive, tourism, law and retail clients. The portfolio also includes the Helitours, Center Seals and MixPneus websites.
+
+#### Vetek Tintas Industriais
+
+WEG distributor in Piracicaba, Brazil: corporate website for industrial paints and solutions.
+
+[Visit the site](https://previa-sites.alcetus.com/Vetek/)
+
+<img src="./screenshots/vetek.png" alt="Website Vetek Tintas Industriais" width="80%">
+
+#### Catita Auto Center
+
+Auto service center in Vargem Grande Paulista, Brazil: oil change, tires, batteries and mechanics.
+
+[Visit the site](https://previa-sites.alcetus.com/CATITA/)
+
+<img src="./screenshots/catita.png" alt="Website Catita Auto Center" width="80%">
+
+#### CEMC Soluções Industriais
+
+Corporate website for industrial solutions and equipment.
+
+[Visit the site](https://previa-sites.alcetus.com/CEMC/)
+
+<img src="./screenshots/cemc.png" alt="Website CEMC Soluções Industriais" width="80%">
+
+#### MPA Máquinas
+
+Plastic-recycling equipment manufacturer: catalog and corporate site.
+
+[Visit the site](https://previa-sites.alcetus.com/MPAMaquinas/)
+
+<img src="./screenshots/mpa.png" alt="Website MPA Máquinas" width="80%">
+
+#### Rebecca Amorim Advocacia
+
+Lead-capture landing page for a law practice specialized in Instagram account recovery.
+
+[Visit the site](https://advrebeccaamorim.com.br)
+
+<img src="./screenshots/rebecca-amorim.png" alt="Website Rebecca Amorim Advocacia" width="80%">
+
+<sub>Contato · Contact: <a href="https://joaocouto.alcetus.com">joaocouto.alcetus.com</a> · <a href="mailto:joaopecouto77@gmail.com">joaopecouto77@gmail.com</a></sub>
