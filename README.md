@@ -56,7 +56,7 @@ O playbook de replicação existe para o site sair idêntico ao design. A regra 
 - A ordem de verdade para valores visuais é: imagens exportadas do design final, código exportado do Figma, API REST do Figma e, por último, o guia.
 - Antes de codar, mapeia-se as páginas do arquivo. Wireframe não é canônico, protótipo e versão final são.
 - Cada seção é medida (tamanhos, espaços, cores, pesos de fonte) e só então codada.
-- Depois de cada seção há um checkpoint: capturar a tela em 1920 px e comparar lado a lado com o design, corrigindo qualquer divergência acima de 4 px.
+- Depois de cada seção há um checkpoint, em que se captura a tela em 1920 px e se compara lado a lado com o design, corrigindo qualquer divergência acima de 4 px.
 - A cada duas ou três seções o resultado é mostrado ao cliente.
 - Quando o design não tem versão mobile, ela é derivada do desktop: coluna única até 880 px, escala tipográfica móvel e blocos decorativos grandes reduzidos ou ocultos.
 
@@ -64,22 +64,22 @@ O playbook de replicação existe para o site sair idêntico ao design. A regra 
 
 É um sistema de tokens para sites estáticos, sem framework, sem bundler e sem build. Se um valor não é token, não se usa. Só duas coisas mudam por projeto: a matiz principal e a família tipográfica.
 
-- Cor: paleta de uma única matiz em HSL, com rampa de 50 a 950. Sem branco e preto absolutos nem cinza neutro puro.
-- Tipografia: 6 títulos (peso 600, altura de linha 120%) e 4 parágrafos (peso 300, 150%). A escala móvel entra a partir de 880 px.
-- Espaçamento: múltiplos de 4 até 32 e múltiplos de 8 acima.
-- Raios: 1, 4, 8, 24 e 99 px, e cada projeto escolhe um só.
-- Sombra: por padrão nenhuma. Quando usada, é a pilha completa de 5 camadas.
-- Grid: espaço de trabalho fixo e centralizado, de 12 colunas no desktop, 6 em tablet e 4 no celular.
-- Componentes: 3 tamanhos de botão e 4 variações, cards, campos de formulário e rodapé padrão. Ícones são SVG inline, de um só traço.
+- Cor: a paleta tem uma única matiz em HSL, com rampa de 50 a 950. Não entram branco e preto absolutos nem cinza neutro puro.
+- Tipografia: são 6 títulos (peso 600, altura de linha 120%) e 4 parágrafos (peso 300, 150%). A escala móvel entra a partir de 880 px.
+- Espaçamento: usa múltiplos de 4 até 32 e múltiplos de 8 acima.
+- Raios: são 1, 4, 8, 24 e 99 px, e cada projeto escolhe um só.
+- Sombra: por padrão não há nenhuma. Quando usada, é a pilha completa de 5 camadas.
+- Grid: o espaço de trabalho é fixo e centralizado, com 12 colunas no desktop, 6 em tablet e 4 no celular.
+- Componentes: são 3 tamanhos de botão e 4 variações, cards, campos de formulário e rodapé padrão. Os ícones são SVG inline, de um só traço.
 
 #### Como cada site usa o DS
 
-O DS é copiado para dentro de cada projeto, e a ordem de carregamento é obrigatória: fontes, tokens, base, componentes e, por último, o CSS do projeto. Por isso o tokens de um projeto pode divergir do canônico.
+O DS é copiado para dentro de cada projeto, e a ordem de carregamento é obrigatória: fontes, tokens, base, componentes e, por último, o CSS do projeto. Por isso o arquivo de tokens de um projeto pode divergir do canônico.
 
-- Caminhos relativos sempre, porque os sites são servidos em subpasta.
-- Um único `app.js` com blocos independentes e defensivos (menu móvel, FAQ, carrosséis, consentimento, formulário para WhatsApp). Cada bloco sai cedo se o elemento não existe na página.
+- Os caminhos são sempre relativos, porque os sites são servidos em subpasta.
+- Há um único `app.js`, com blocos independentes e defensivos (menu móvel, FAQ, carrosséis, consentimento, formulário para WhatsApp). Cada bloco sai cedo se o elemento não existe na página.
 - Em reestruturação de site de cliente, valem as fontes e as seções do cliente. O DS só preenche o que falta, como foco visível e um único H1.
-- Imagens em WebP ou AVIF no tamanho real, fontes próprias com troca rápida e scripts com `defer`.
+- As imagens usam WebP ou AVIF no tamanho real, as fontes são próprias, com troca rápida, e os scripts levam `defer`.
 
 #### Do Figma ao Elementor
 

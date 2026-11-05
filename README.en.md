@@ -56,7 +56,7 @@ The replication playbook exists so the site comes out identical to the design. T
 - The order of truth for visual values is: exported images of the final design, Figma code export, the Figma REST API and, last, the guide.
 - Before coding, the file's pages are mapped. A wireframe is not canonical, while a prototype or final version is.
 - Each section is measured (sizes, spacing, colors, font weights) and only then coded.
-- After each section there is a checkpoint: capture the screen at 1920 px and compare side by side with the design, fixing any divergence above 4 px.
+- After each section there is a checkpoint, where the screen is captured at 1920 px and compared side by side with the design, fixing any divergence above 4 px.
 - Every two or three sections the result is shown to the client.
 - When the design has no mobile version, it is derived from desktop: a single column up to 880 px, the mobile type scale, and large decorative blocks reduced or hidden.
 
@@ -64,22 +64,22 @@ The replication playbook exists so the site comes out identical to the design. T
 
 It is a token system for static sites, with no framework, no bundler and no build. If a value is not a token, it is not used. Only two things change per project: the main hue and the typeface.
 
-- Color: a single-hue HSL palette with a 50 to 950 ramp. No absolute white or black and no neutral pure grey.
-- Typography: 6 headings (weight 600, line height 120%) and 4 paragraphs (weight 300, 150%). The mobile scale applies from 880 px.
-- Spacing: multiples of 4 up to 32 and multiples of 8 above.
-- Radii: 1, 4, 8, 24 and 99 px, and each project picks just one.
-- Shadow: none by default. When used, it is the full 5-layer stack.
-- Grid: a fixed, centered workspace with 12 columns on desktop, 6 on tablet and 4 on phones.
-- Components: 3 button sizes and 4 variations, cards, form fields and a standard footer. Icons are inline SVG with a single stroke weight.
+- Color: the palette is a single hue in HSL, with a 50 to 950 ramp. It uses no absolute white or black and no pure neutral grey.
+- Typography: there are 6 headings (weight 600, line height 120%) and 4 paragraphs (weight 300, 150%). The mobile scale applies from 880 px.
+- Spacing: it uses multiples of 4 up to 32 and multiples of 8 above.
+- Radii: they are 1, 4, 8, 24 and 99 px, and each project picks just one.
+- Shadow: there is none by default. When used, it is the full 5-layer stack.
+- Grid: the workspace is fixed and centered, with 12 columns on desktop, 6 on tablet and 4 on phones.
+- Components: there are 3 button sizes and 4 variations, cards, form fields and a standard footer. Icons are inline SVG with a single stroke weight.
 
 #### How each site uses the DS
 
 The DS is copied into each project, and the load order is mandatory: fonts, tokens, base, components and, last, the project CSS. That is why a project's tokens file can diverge from the canonical one.
 
-- Relative paths always, because sites are served from a subfolder.
-- A single `app.js` with independent, defensive blocks (mobile menu, FAQ, carousels, consent, form to WhatsApp). Each block exits early if its element is not on the page.
+- Paths are always relative, because sites are served from a subfolder.
+- There is a single `app.js`, with independent, defensive blocks (mobile menu, FAQ, carousels, consent, form to WhatsApp). Each block exits early if its element is not on the page.
 - In a client restructuring, the client's fonts and sections win. The DS only fills in what is missing, such as visible focus and a single H1.
-- Images in WebP or AVIF at real size, self-hosted fonts with fast swap, and scripts with `defer`.
+- Images use WebP or AVIF at real size, fonts are self-hosted with fast swap, and scripts use `defer`.
 
 #### From Figma to Elementor
 
