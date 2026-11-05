@@ -20,9 +20,9 @@
 
 ### Overview
 
-This repository showcases more than 20 websites I designed and built for real clients, across industry, automotive, tourism, law and retail. The code of each project is private. What appears here are preview or production links and screenshots.
+This repository showcases more than 20 websites I designed and built for real clients, across industry, automotive, tourism, law and retail. The code of each project is private. What appears here are just preview or production links and screenshots.
 
-Clients cleared for naming include Vetek, Catita, CEMC, MPA Máquinas, Rebecca Amorim, Pétala Dourada, Helitours, Center Seals and MixPneus. The section below describes the way of working behind them: from client material to design, from design to code, and from code to preview and production.
+Clients cleared for naming include Vetek, Catita, CEMC, MPA Máquinas, Rebecca Amorim, Pétala Dourada, Helitours, Center Seals and MixPneus. The section below describes the way I work behind all of them: from client material to design, from design to code, and from code to preview and production.
 
 ### How it works
 

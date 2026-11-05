@@ -20,9 +20,9 @@
 
 ### Visão geral
 
-Este repositório é a vitrine de mais de 20 sites que projetei e implementei para clientes reais, em indústria, setor automotivo, turismo, advocacia e comércio. O código de cada projeto é privado. O que aparece aqui são links de preview ou produção e capturas de tela.
+Este repositório é a vitrine de mais de 20 sites que eu projetei e implementei para clientes reais, em indústria, setor automotivo, turismo, advocacia e comércio. O código de cada projeto é privado. O que aparece aqui são só links de preview ou produção e capturas de tela.
 
-Entre os clientes autorizados para citação estão Vetek, Catita, CEMC, MPA Máquinas, Rebecca Amorim, Pétala Dourada, Helitours, Center Seals e MixPneus. A seção abaixo descreve a forma de trabalho por trás deles: do material do cliente ao design, do design ao código, do código ao preview e à produção.
+Entre os clientes autorizados para citação estão Vetek, Catita, CEMC, MPA Máquinas, Rebecca Amorim, Pétala Dourada, Helitours, Center Seals e MixPneus. A seção abaixo descreve a forma de trabalho que está por trás de todos eles: do material do cliente ao design, do design ao código, do código ao preview e à produção.
 
 ### Como funciona
 
