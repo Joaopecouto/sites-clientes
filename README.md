@@ -136,43 +136,58 @@ flowchart TB
 
 #### Vetek Tintas Industriais
 
-Distribuidor WEG em Piracicaba/SP: site institucional de tintas e soluções industriais.
+Distribuidor WEG em Piracicaba/SP: site institucional de tintas e soluções industriais. [Ver site](https://previa-sites.alcetus.com/Vetek/)
 
-[Ver site](https://previa-sites.alcetus.com/Vetek/)
-
-<img src="./screenshots/vetek.png" alt="Site Vetek Tintas Industriais" width="80%">
+<table>
+<tr>
+<td width="74%" valign="top"><img src="./assets/screens/vetek-desktop.jpg" alt="Site de Vetek Tintas Industriais, versão desktop" width="100%"></td>
+<td width="26%" valign="top"><img src="./assets/screens/vetek-mobile.png" alt="Site de Vetek Tintas Industriais, versão mobile" width="100%"></td>
+</tr>
+</table>
 
 #### Catita Auto Center
 
-Centro automotivo em Vargem Grande Paulista/SP: troca de óleo, pneus, baterias e mecânica.
+Centro automotivo em Vargem Grande Paulista/SP: troca de óleo, pneus, baterias e mecânica. [Ver site](https://previa-sites.alcetus.com/CATITA/)
 
-[Ver site](https://previa-sites.alcetus.com/CATITA/)
-
-<img src="./screenshots/catita.png" alt="Site Catita Auto Center" width="80%">
+<table>
+<tr>
+<td width="74%" valign="top"><img src="./assets/screens/catita-desktop.jpg" alt="Site de Catita Auto Center, versão desktop" width="100%"></td>
+<td width="26%" valign="top"><img src="./assets/screens/catita-mobile.jpg" alt="Site de Catita Auto Center, versão mobile" width="100%"></td>
+</tr>
+</table>
 
 #### CEMC Soluções Industriais
 
-Site institucional de soluções e equipamentos industriais.
+Site institucional de soluções e equipamentos industriais. [Ver site](https://previa-sites.alcetus.com/CEMC/)
 
-[Ver site](https://previa-sites.alcetus.com/CEMC/)
-
-<img src="./screenshots/cemc.png" alt="Site CEMC Soluções Industriais" width="80%">
+<table>
+<tr>
+<td width="74%" valign="top"><img src="./assets/screens/cemc-desktop.jpg" alt="Site de CEMC Soluções Industriais, versão desktop" width="100%"></td>
+<td width="26%" valign="top"><img src="./assets/screens/cemc-mobile.jpg" alt="Site de CEMC Soluções Industriais, versão mobile" width="100%"></td>
+</tr>
+</table>
 
 #### MPA Máquinas
 
-Fabricante de equipamentos para reciclagem de plástico: catálogo e institucional.
+Fabricante de equipamentos para reciclagem de plástico: catálogo e institucional. [Ver site](https://previa-sites.alcetus.com/MPAMaquinas/)
 
-[Ver site](https://previa-sites.alcetus.com/MPAMaquinas/)
-
-<img src="./screenshots/mpa.png" alt="Site MPA Máquinas" width="80%">
+<table>
+<tr>
+<td width="74%" valign="top"><img src="./assets/screens/mpamaquinas-desktop.jpg" alt="Site de MPA Máquinas, versão desktop" width="100%"></td>
+<td width="26%" valign="top"><img src="./assets/screens/mpamaquinas-mobile.jpg" alt="Site de MPA Máquinas, versão mobile" width="100%"></td>
+</tr>
+</table>
 
 #### Rebecca Amorim Advocacia
 
-Landing page de captação para advocacia especializada em recuperação de contas de Instagram.
+Landing page de captação para advocacia especializada em recuperação de contas de Instagram. [Ver site](https://advrebeccaamorim.com.br)
 
-[Ver site](https://advrebeccaamorim.com.br)
-
-<img src="./screenshots/rebecca-amorim.png" alt="Site Rebecca Amorim Advocacia" width="80%">
+<table>
+<tr>
+<td width="74%" valign="top"><img src="./assets/screens/rebecca-desktop.jpg" alt="Site de Rebecca Amorim Advocacia, versão desktop" width="100%"></td>
+<td width="26%" valign="top"><img src="./assets/screens/rebecca-mobile.png" alt="Site de Rebecca Amorim Advocacia, versão mobile" width="100%"></td>
+</tr>
+</table>
 
 ## English
 
@@ -297,42 +312,57 @@ flowchart TB
 
 #### Vetek Tintas Industriais
 
-WEG distributor in Piracicaba, Brazil: corporate website for industrial paints and solutions.
+WEG distributor in Piracicaba, Brazil: corporate website for industrial paints and solutions. [Visit the site](https://previa-sites.alcetus.com/Vetek/)
 
-[Visit the site](https://previa-sites.alcetus.com/Vetek/)
-
-<img src="./screenshots/vetek.png" alt="Website Vetek Tintas Industriais" width="80%">
+<table>
+<tr>
+<td width="74%" valign="top"><img src="./assets/screens/vetek-desktop.jpg" alt="Website of Vetek Tintas Industriais, desktop" width="100%"></td>
+<td width="26%" valign="top"><img src="./assets/screens/vetek-mobile.png" alt="Website of Vetek Tintas Industriais, mobile" width="100%"></td>
+</tr>
+</table>
 
 #### Catita Auto Center
 
-Auto service center in Vargem Grande Paulista, Brazil: oil change, tires, batteries and mechanics.
+Auto service center in Vargem Grande Paulista, Brazil: oil change, tires, batteries and mechanics. [Visit the site](https://previa-sites.alcetus.com/CATITA/)
 
-[Visit the site](https://previa-sites.alcetus.com/CATITA/)
-
-<img src="./screenshots/catita.png" alt="Website Catita Auto Center" width="80%">
+<table>
+<tr>
+<td width="74%" valign="top"><img src="./assets/screens/catita-desktop.jpg" alt="Website of Catita Auto Center, desktop" width="100%"></td>
+<td width="26%" valign="top"><img src="./assets/screens/catita-mobile.jpg" alt="Website of Catita Auto Center, mobile" width="100%"></td>
+</tr>
+</table>
 
 #### CEMC Soluções Industriais
 
-Corporate website for industrial solutions and equipment.
+Corporate website for industrial solutions and equipment. [Visit the site](https://previa-sites.alcetus.com/CEMC/)
 
-[Visit the site](https://previa-sites.alcetus.com/CEMC/)
-
-<img src="./screenshots/cemc.png" alt="Website CEMC Soluções Industriais" width="80%">
+<table>
+<tr>
+<td width="74%" valign="top"><img src="./assets/screens/cemc-desktop.jpg" alt="Website of CEMC Soluções Industriais, desktop" width="100%"></td>
+<td width="26%" valign="top"><img src="./assets/screens/cemc-mobile.jpg" alt="Website of CEMC Soluções Industriais, mobile" width="100%"></td>
+</tr>
+</table>
 
 #### MPA Máquinas
 
-Plastic-recycling equipment manufacturer: catalog and corporate site.
+Plastic-recycling equipment manufacturer: catalog and corporate site. [Visit the site](https://previa-sites.alcetus.com/MPAMaquinas/)
 
-[Visit the site](https://previa-sites.alcetus.com/MPAMaquinas/)
-
-<img src="./screenshots/mpa.png" alt="Website MPA Máquinas" width="80%">
+<table>
+<tr>
+<td width="74%" valign="top"><img src="./assets/screens/mpamaquinas-desktop.jpg" alt="Website of MPA Máquinas, desktop" width="100%"></td>
+<td width="26%" valign="top"><img src="./assets/screens/mpamaquinas-mobile.jpg" alt="Website of MPA Máquinas, mobile" width="100%"></td>
+</tr>
+</table>
 
 #### Rebecca Amorim Advocacia
 
-Lead-capture landing page for a law practice specialized in Instagram account recovery.
+Lead-capture landing page for a law practice specialized in Instagram account recovery. [Visit the site](https://advrebeccaamorim.com.br)
 
-[Visit the site](https://advrebeccaamorim.com.br)
-
-<img src="./screenshots/rebecca-amorim.png" alt="Website Rebecca Amorim Advocacia" width="80%">
+<table>
+<tr>
+<td width="74%" valign="top"><img src="./assets/screens/rebecca-desktop.jpg" alt="Website of Rebecca Amorim Advocacia, desktop" width="100%"></td>
+<td width="26%" valign="top"><img src="./assets/screens/rebecca-mobile.png" alt="Website of Rebecca Amorim Advocacia, mobile" width="100%"></td>
+</tr>
+</table>
 
 <sub>Contato · Contact: <a href="https://joaocouto.alcetus.com">joaocouto.alcetus.com</a> · <a href="mailto:joaopecouto77@gmail.com">joaopecouto77@gmail.com</a></sub>
